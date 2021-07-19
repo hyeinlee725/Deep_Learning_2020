@@ -2,4 +2,4 @@
 ## 심층학습
 
 ### Assignment
-### The practice environment used Google COLAB.
+### Development Environment : Google COLAB.
