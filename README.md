@@ -2,4 +2,4 @@
 ## 심층학습
 
 ### Assignment
-### Development Environment : Google COLAB.
+### Development Environment : Google COLAB
