@@ -3,4 +3,4 @@
 
 ### Language : Python
 ### Assignment
-### Development Environment : Google COLAB
+### Development Environment : Google Colab
