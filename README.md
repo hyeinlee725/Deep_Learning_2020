@@ -2,5 +2,5 @@
 ## 심층학습
 
 ### Language : Python
-### Assignment
 ### Development Environment : Google Colab
+### Assignment
